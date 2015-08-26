@@ -1,10 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 class Hai{
 public static void main(String args[]){
 System.out.println("hai");
 }
 }
 =======
+=======
+>>>>>>> Test
 public class MyDuplicateElements {
 
  
@@ -70,5 +73,9 @@ public class MyDuplicateElements {
     }
 
 }
+<<<<<<< HEAD
 - See more at: http://www.java2novice.com/java-interview-programs/remove-duplicates-sorted-array/#sthash.t8qGes5E.dpuf
 >>>>>>> 6b8e965... Adding the File1.java to Test Bbanch 4:03
+=======
+- See more at: http://www.java2novice.com/java-interview-programs/remove-duplicates-sorted-array/#sthash.t8qGes5E.dpuf
+>>>>>>> Test
